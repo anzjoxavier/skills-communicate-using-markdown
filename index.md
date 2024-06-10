@@ -8,3 +8,9 @@ Used `<H1>` to make a heading.
 print("Hello World")
 print("Hai World")
 ```
+
+## Tasklist 
+
+- [x] Completed Task 1
+- [ ] Completed Task 2
+- [ ] Completed Task 3
